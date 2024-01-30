@@ -1,1 +1,1 @@
-
+I have recently added an OCR model which would be used to extract all the text from a screenshot of the same image that was used as input for the yolov8 model and then the extracted text would further be used for detection of deception. Currently it could not be integrated because of some issue once its resolved will integrate this.
